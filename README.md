@@ -10,10 +10,3 @@ This project features a web application for user registration and login. It uses
   - User login page
   - Form validation and error handling
 
-### Setup
-
-1. **Clone the repository:**
-
-   ```bash
-   git clone <frontend-repo-url>
-
